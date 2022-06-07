@@ -51,7 +51,7 @@ The procedures in this article show how to add or remove email addresses for a u
 
 2. In the list of user mailboxes, click the mailbox that you want to add an email address to. A display pane is shown for the selected user mailbox.
 
-3. Under **Mailbox** settings \> **Email addresses**, click the **Manage email address types** link.
+3. Under **General** settings \> **Email addresses**, click the **Manage email address types** link.
 
 4. The **Manage email address types** display pane is shown. You can view all the email addresses associated with this user mailbox. Each email address type has one default reply address. The default reply address is displayed in bold.
 
